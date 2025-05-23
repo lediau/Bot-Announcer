@@ -1,0 +1,32 @@
+@learner Hi everyone!
+
+:loudspeaker: Time for the **Friday Resource Drop**!
+
+This week is all about **preparing for Backend Developer interviews** :brain::computer:
+Whether you're just getting started or brushing up before interviews, we've got you covered.
+
+:pushpin: :dart: **What to Expect – Common Backend Interview Questions**
+
+[GeeksforGeeks: Backend Interview Questions](https://www.geeksforgeeks.org/backend-developer-interview-questions-and-answers/)
+A solid starting point covering technical concepts like REST, databases, caching, scalability, and more.
+
+[Turing: Backend Interview Questions](https://www.turing.com/interview-questions/back-end)
+Quick, digestible Q&A format—great for last-minute prep and brushing up on fundamentals.
+
+[HubSpot Blog: Top Backend Interview Questions](https://blog.hubspot.com/website/backend-interview-questions)
+Mixes technical and behavioral questions. Useful for understanding how companies think during interviews.
+
+:pushpin: :tools: **Deep Dive – Technical and Architecture-Focused Questions**
+
+[Ideamotive: Backend Interview Breakdown](https://www.ideamotive.co/backend/interview)
+Explains not just what to expect, but how to structure your answers. Focuses on system design, scalability, and practical dev insights.
+
+[GitHub Repo: Backend Interview Questions Collection](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+A huge open-source list—perfect for self-testing and discussion.
+
+:pushpin: :compass: **Interactive Guide – Plan Your Journey**
+
+[Roadmap.sh: Backend Interview Questions](https://roadmap.sh/questions/backend)
+A categorized and community-driven list of questions that evolves with industry trends. Great for tracking progress or preparing systematically.
+
+Happy prepping! :rocket: Got a favorite resource from this list or a tip of your own? Drop it below! :speech_balloon:

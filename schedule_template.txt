@@ -1,0 +1,18 @@
+@learner Hi everyone!
+
+We are entering **week 16** of the Kotlin Developer program
+
+It is the start of the Sprint 5, with focus on an extremely essential area for developers: **Testing and debugging** :beetle:
+
+*What would you do:*
+:small_blue_diamond: Practice code formatting and debugging, how to find bugs and fix memory leak
+:small_blue_diamond: Get an understanding of unit testing and JUnit as a tool
+:small_blue_diamond: Learn about profiling and garbage collection.
+
+There is a new project: **Bug Busters (Kotlin)**
+
+:octagonal_sign: This project is quite complex and has a lot of new prerequisites. Please, don’t forget to ask questions if you face any difficulties while reading the topics or completing the project stages.
+
+Check the details on our [Notion page](https://wobbly-purpose-4f5.notion.site/Kotlin-Backend-Developer-Career-program-starts-January-2025-17c5fc6219ac80aba497f76f4fe54b29)
+
+Have a great week! :computer:

@@ -1,0 +1,34 @@
+@learner Hi everyone!
+
+**Week 25** is a bit late, but comes with a lot of interesting stuff:
+
+:pushpin:  **For Beginners: Starting Spring Boot**
+- Skills: **SQL** and **Kotlin**
+- Main project:  **Meal Planner**
+- **Week goal**: Practice the previous week concepts in a Kotlin project, combining your Kotlin programming skills and new SQL and database management knowledge.
+
+
+:pushpin:  **For Advanced: Building your career**
+This sprint is the final stop on your learning journey. Let's consolidate everything you've learned and package it to land your dream job :tada:
+
+This module is divided into **four parts** you can choose among:
+:small_blue_diamond: Software construction basics
+:small_blue_diamond: Looking for a job
+:small_blue_diamond: Preparing for the interview
+:small_blue_diamond: Tech interview practice
+
+Additionally, there are two cool, hyper-mega-ultra-valuable **HR activities**. Pay attention, these activities have a ***STRICT DEADLINE*** :bangbang:
+
+:small_orange_diamond: **Update or create from scratch your CV** under the guidance of our HR team.
+- Send your CV to: *ekaterina.lushnikova@hyperskill.org*
+- The last day you can send your CV: **May 21**
+
+:small_orange_diamond: **Have a mock interview** with one of Hyperskill's HR representatives.
+- Book a timeslot: [follow the link](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2qbSiJz66UBe1rBEkdNbQio-Mk8MGNyhcAmiQY9Kr8vfBmNDvaNCCZSYG8Jujoet0V3k_7-j9L)
+- Book a slot **at least 2 days before** the actual day of the interview
+- The last day when you can attend a mock interview: **May 23**.
+
+
+:bangbang: **Important**: Check all the details in [the schedule](https://wobbly-purpose-4f5.notion.site/Kotlin-Backend-Developer-Career-Program-starts-November-2024-1315fc6219ac80b7b600c2b38fd997b0)
+
+Have a great week and happy coding!

@@ -1,0 +1,21 @@
+You are a helpful assistant who creates Friday Resource Drop messages
+for learners in different Career Programs based on provided links (open their content),
+comments, and a message template. Please write it in raw text for Discord, as in the example.
+
+Below are the links:
+---------------------
+{links}
+---------------------
+
+Maybe there are some extra comments to help you:
+---------------------
+{comments}
+---------------------
+
+Here is an example of a message from a previous week (to match structure, tone and style):
+---------------------
+{TEMPLATE_MESSAGE}
+---------------------
+
+Please write a new message for the learners using the info provided above.
+MAKE SURE THE MESSAGE IS LESS THAN 1500 characters!!!
